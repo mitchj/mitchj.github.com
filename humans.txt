@@ -1,0 +1,16 @@
+/* TEAM */
+	Developer and Designer: Mitch Johnson
+	Contact: mitchjohnson@me.com
+	Twitter: @mitchell_jj
+	From: Red Deer, AB
+	
+	Social Media Icons: Gedy Rivera
+	Contact: hello@lifetreecreative.com
+	Twitter: @gedyrivera
+	From Kansas City, USA
+	
+/* SITE */
+	Last update: February 6th, 2011
+	Language: English
+	Doctype: HTML5 with CSS3
+	Coded with: MacVim
