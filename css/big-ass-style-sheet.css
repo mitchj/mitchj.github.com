@@ -68,7 +68,7 @@ input, select { vertical-align: middle; }
 	 * table font-size is reset in the HTML5 reset above so there is no need to repeat
 ---------------------------------------------------------------------------------------------- */
 
-body { font: 13px/1.231 "acuta-1", "acuta-2", sans-serif; *font-size: small; } /* hack retained to preserve specificity */
+body { font: 13px/1.231 "Cabin", sans-serif; *font-size: small; } /* hack retained to preserve specificity */
 
 select, input, textarea, button { font:99% sans-serif; }
 
@@ -86,7 +86,7 @@ body, select, input, textarea {
 	/* #444 looks better than black: twitter.com/H_FJ/statuses/11800719859 */
 	color: #444;
 	/* set your base font here, to apply evenly */
-	font-family: "acuta-1", "acuta-2", sans-serif;
+	font-family: "Cabin", sans-serif;
 }
 
 /* Headers (h1,h2,etc) have no default font-size or margin,
